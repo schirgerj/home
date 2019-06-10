@@ -1,0 +1,22 @@
+/*CSS for all pages*/
+body
+{
+	background-color: black;	
+}
+/* to center images */
+img
+{
+	display: table;
+	margin: 0 auto;
+}
+p,h1,h2,h3,ul,h4
+{
+	color: #CCE5FF;
+	font-family: "Times New Roman", "serif";
+}
+ul li
+{
+	font-size: 17px;
+	color: #CCE5FF; /*Color for paragraphs is already specified in the general CSS but it is not for the list. It doesn't matter since this one overrides the other.*/
+}
+	

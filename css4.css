@@ -1,0 +1,11 @@
+/*CSS for music and dance page*/
+p
+{
+	font-size: 17px;
+	color: #CCE5FF; /*Color for paragraphs is already specified in the general CSS but it is not for the list. It doesn't matter since this one overrides the other.*/
+}
+h3
+{
+	text-align: center;
+	color: rgb(255,182,193);
+}
